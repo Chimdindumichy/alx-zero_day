@@ -1,2 +1,2 @@
 My first readme.
-understanding bit by bit 
+understanding bit by bit
