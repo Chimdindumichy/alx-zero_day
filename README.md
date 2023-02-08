@@ -1,2 +1,1 @@
-My first readme.
-understanding bit by bit
+my first readme on git
